@@ -53,8 +53,8 @@ by Christopher
 
 ### Assignment9 Linear regression/Logistic regression/SVM
 
-### Assignment11 SVM/decision tree/XGBoost/Clustering
+### Assignment10 SVM/decision tree/XGBoost/Clustering
 
 1. [Article plagiarism notebook](Other_Notebook/article-plagiarism.ipynb)
 
-### Assignment12 K-means/Word2Vec/Embedding/Hiearchy softmax
+### Assignment11 K-means/Word2Vec/Embedding/Hiearchy softmax
