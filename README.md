@@ -47,7 +47,7 @@ by Christopher
 ### Assignment7 Bool search and pagerank
 
 1. [Mini search engine notebook](Other_Notebook/bool-search.ipynb)
-2. [Mini search engine for chinese famous novels](Other_Notebook /)
+2. [Mini search engine for chinese famous novels](Other_Notebook/)
 
 ### Assignment8 Bias/Variance/Overfitting/Recall/Precision
 
