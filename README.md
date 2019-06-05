@@ -58,3 +58,17 @@ by Christopher
 1. [Article plagiarism notebook](Other_Notebook/article-plagiarism.ipynb)
 
 ### Assignment11 K-means/Word2Vec/Embedding/Hiearchy softmax
+
+
+## Homework status
+
+| **homework**  | **Status**                                              |
+| --------- | ----------------------------------------------------------- |
+| Lecture-1 | Finished                                                    |
+| Lecture-2 | Finished                                                    |
+| Lecture-3 | Finished                                                    |
+| Lecture-4 | Finished                                                    |
+| Lecture-5 | In progress                                          |
+| Lecture-6 | In progress                                                    |
+| Lecture-8 | In progress 			                          |
+|           |                                                             |
