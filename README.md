@@ -4,74 +4,74 @@ by Christopher
 ## Table of Contents
 ----
 
-### [Assignment1 Graph search](Assignment-01.ipynb)
+### [Lesson1 Graph search](Lesson-01.ipynb)
 
 1. [Breadth first search](algorithm/search.py)
 2. [Depth first search](algorithm/search.py)
-3. [Map Search](Assignment-01.ipynb)
-4. [Sentence Generation](Assignment-01.ipynb)
-5. [Pattern Match](Assignment-01.ipynb)
-6. [Granma tree and Segment Match](Assignment-01.ipynb)
+3. [Map Search](Lesson-01.ipynb)
+4. [Sentence Generation](Lesson-01.ipynb)
+5. [Pattern Match](Lesson-01.ipynb)
+6. [Granma tree and Segment Match](Lesson-01.ipynb)
 
-### [Assignment2 Language model]( Assignment-02.ipynb)
+### [Lesson2 Language model]( Lesson-02.ipynb)
 
-1. [Regular expression](Assignment-02.ipynb)
-2. [繁转简 jieba.cut]( Assignment-02.ipynb)
+1. [Regular expression](Lesson-02.ipynb)
+2. [繁转简 jieba.cut]( Lesson-02.ipynb)
 3. [n-gram model](algorithm/ngram.py)
 4. [Bag of words](algorithm/bag_of_words.py)
 5. [Good turning estimate](algorithm/good_turning_estimate.py)
 
-### [Assignment3 Best first search](Assignment-03.ipynb)
+### [Lesson3 Best first search](Lesson-03.ipynb)
 
 1. [A star algorithm – consider cost of search](algorithm/a_star.py)
 2. [Linear regression](algorithm/linear_regression.py)
-3. [Linear regression with Machine Learning Method](Assignment-03.ipynb)
-4. [Web Crawler – Baidu Baike](Assignment-03.ipynb)
-5. [Beijing Subway Exchange Solution](Assignment-03.ipynb)
+3. [Linear regression with Machine Learning Method](Lesson-03.ipynb)
+4. [Web Crawler – Baidu Baike](Lesson-03.ipynb)
+5. [Beijing Subway Exchange Solution](Lesson-03.ipynb)
 
-### [Assignment4 Dynamic programming and Edit Distance](Assignment-04.ipynb)
+### [Lesson4 Dynamic programming and Edit Distance](Lesson-04.ipynb)
 
 1. [Rod cutting problem](algorithm/rod_cutting.py)
 2. [edit distance](algorithm/edit_distance.py)
-3. [k-person-salesman problem – Best Route Recommendation](Assignment-04.ipynb)
+3. [k-person-salesman problem – Best Route Recommendation](Lesson-04.ipynb)
 
-### Assignment5 Word2Vec
+### Lesson5 Word2Vec
 
 1. [search “say” related words](project/Project1.ipynb)
 2. [use (py)ltp to parse news](project/Project1.ipynb)
 
-### Assignment6 News option extraction
+### Lesson6 News option extraction
 1. [News option extraction model notebook](project/Project1.ipynb)
 2. [News option extraction model](project/Project1.ipynb) - Need further optimize
 
-### Assignment7 Bool search and pagerank
+### Lesson7 Bool search and pagerank
 
 1. [Mini search engine notebook](Other_Notebook/bool-search.ipynb)
 2. [Mini search engine for chinese famous novels](Other_Notebook/)
 
-### Assignment8 Bias/Variance/Overfitting/Recall/Precision
+### Lesson8 Bias/Variance/Overfitting/Recall/Precision
 
-### Assignment9 Linear regression/Logistic regression/SVM
+### Lesson9 Linear regression/Logistic regression/SVM
 
-### Assignment10 SVM/decision tree/XGBoost/Clustering
+### Lesson10 SVM/decision tree/XGBoost/Clustering
 
 1. [Article plagiarism notebook](Other_Notebook/article-plagiarism.ipynb)
 
-### Assignment11 K-means/Word2Vec/Embedding/Hiearchy softmax
+### Lesson11 K-means/Word2Vec/Embedding/Hiearchy softmax
 
 
 ## Homework status
 
 | **homework**  | **Status**                                              |
 | --------- | ----------------------------------------------------------- |
-| Lecture-1 | Finished                                                    |
-| Lecture-2 | Finished                                                    |
-| Lecture-3 | Finished                                                    |
-| Lecture-4 | Finished                                                    |
-| Lecture-5 | Finished                                                    |
-| Lecture-6 | Finished                                                    |
-| Lecture-8 | Finished 			                                              |
-| Lecture-9 | Merged with Lecture-8			                                  |
-| Lecture-10 | Finished                                                   |
-| Lecture-11 | Finished                                                   |
-| Lecture-12 | Finished 			                                            |
+| Lesson-1 | Finished                                                     |
+| Lesson-2 | Finished                                                     |
+| Lesson-3 | Finished                                                     |
+| Lesson-4 | Finished                                                     |
+| Lesson-5 | Finished                                                     |
+| Lesson-6 | Finished                                                     |
+| Lesson-8 | Finished 			                                              |
+| Lesson-9 | Merged with Lesson-10			                                  |
+| Lesson-10 | Finished                                                    |
+| Lesson-11 | Finished                                                    |
+| Lesson-12 | Finished 			                                              |
