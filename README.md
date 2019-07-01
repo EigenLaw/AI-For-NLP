@@ -68,7 +68,10 @@ by Christopher
 | Lecture-2 | Finished                                                    |
 | Lecture-3 | Finished                                                    |
 | Lecture-4 | Finished                                                    |
-| Lecture-5 | Finished                                          |
-| Lecture-6 | In progress                                                    |
-| Lecture-8 | Finished 			                          |
-|           |                                                             |
+| Lecture-5 | Finished                                                    |
+| Lecture-6 | Finished                                                    |
+| Lecture-8 | Finished 			                                              |
+| Lecture-9 | Merged with L10			                                        |
+| Lecture-10 | Finished                                                   |
+| Lecture-11 | Finished                                                   |
+| Lecture-12 | Finished 			                                            |
