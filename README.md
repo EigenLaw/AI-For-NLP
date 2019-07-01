@@ -71,7 +71,7 @@ by Christopher
 | Lecture-5 | Finished                                                    |
 | Lecture-6 | Finished                                                    |
 | Lecture-8 | Finished 			                                              |
-| Lecture-9 | Merged with L10			                                        |
+| Lecture-9 | Merged with Lecture-8			                                  |
 | Lecture-10 | Finished                                                   |
 | Lecture-11 | Finished                                                   |
 | Lecture-12 | Finished 			                                            |
