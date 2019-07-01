@@ -35,30 +35,56 @@ by Christopher
 2. [edit distance](algorithm/edit_distance.py)
 3. [k-person-salesman problem – Best Route Recommendation](Lesson-04.ipynb)
 
-### Lesson5 Word2Vec
+### [Lesson5 Word2Vec](Lesson-05.ipynb)
 
 1. [search “say” related words](project/Project1.ipynb)
 2. [use (py)ltp to parse news](project/Project1.ipynb)
 
-### Lesson6 News option extraction
+### [Lesson6 News option extraction](Lesson-06.ipynb)
 1. [News option extraction model notebook](project/Project1.ipynb)
 2. [News option extraction model](project/Project1.ipynb) - Need further optimize
 
-### Lesson7 Bool search and pagerank
+### [Lesson7 Bool search and pagerank](Lesson-07.ipynb)
 
 1. [Mini search engine notebook](Other_Notebook/bool-search.ipynb)
 2. [Mini search engine for chinese famous novels](Other_Notebook/)
 
-### Lesson8 Bias/Variance/Overfitting/Recall/Precision
+### [Lesson8 Bias/Variance/Overfitting/Recall/Precision](Lesson-08.ipynb)
 
-### Lesson9 Linear regression/Logistic regression/SVM
+1. Assistant Function
+2. 样本不平衡问题
+3. Sampling
+4. TfIdf
+5. Word2Vec
+6. 模型调参
+7. 新华社文章抄袭判定
 
-### Lesson10 SVM/decision tree/XGBoost/Clustering
+### [Lesson9 Linear regression/Logistic regression/SVM](Lesson-09.ipynb)
+
+1. Support Vector Machine (SVM)
+
+### [Lesson10 SVM/decision tree/XGBoost/Clustering](Lesson-10.ipynb)
 
 1. [Article plagiarism notebook](Other_Notebook/article-plagiarism.ipynb)
+2. SVM
+3. 交叉熵最小排序
+4. 决策树在Python中的实现
 
-### Lesson11 K-means/Word2Vec/Embedding/Hiearchy softmax
+### [Lesson11 K-means/Word2Vec/Embedding/Hiearchy softmax](Lesson-11.ipynb)
 
+1. Gradient Descent在Python中的实现
+2. 论文阅读与参考书目
+
+### [Lesson12 手撕神经网络](Lesson-12.ipynb)
+
+1. 1个完整的epoch
+1.1 正向传递
+1.2 反向传递
+2. Python从0到1编写神经网络
+3. 使用波士顿房间数据测试
+4. Keras
+5. 激活函数
+6. 优化函数
 
 ## Homework status
 
