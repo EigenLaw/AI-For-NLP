@@ -101,3 +101,5 @@ by Christopher
 | Lesson-10 | Finished                                                    |
 | Lesson-11 | Finished                                                    |
 | Lesson-12 | Finished 			                                              |
+| Project-1 | Finished                                                    |
+| Project-2 | Finished 			                                              |
